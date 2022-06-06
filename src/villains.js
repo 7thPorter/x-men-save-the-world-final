@@ -41,3 +41,4 @@ export const mystique = [
   "https://upload.wikimedia.org/wikipedia/en/8/80/Forge_%28Marvel_Comics_character%29.png",
 ];
 
+export default villains;
